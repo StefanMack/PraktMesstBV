@@ -1,7 +1,7 @@
 # Praktikum Messtechnik Bildverarbeitung mit OpenCV-Python
 Vorbereitung Grundlagen Scientific Python für Bildverarbeitung im Praktikum Messtechnik
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nilsleiffischer/python-course/deploy?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/StefanMack/PraktMesstBV/master)
 
 Dieser Kurs soll im Rahmen des Praktikums Messtechnik eine Einführung in die wissenschaftliche Arbeit mit Python und speziell in die Bibliotheken Numpy, Matplotlib und OpenCV-Python geben.  
 Das Durcharbeiten dieses Jupyter Notebooks ist notwendig, um die Programmieraufgaben im Praktikumstermin zu bewerkstelligen. Bitte bereiten Sie sich gut vor.
