@@ -1,4 +1,4 @@
-# Praktikum Messtechnik Bildverarbeitung mit OpenCV-Python
+# Praktikum Messtechnik: Bildverarbeitung mit OpenCV-Python
 Vorbereitung Grundlagen Scientific Python für Bildverarbeitung im Praktikum Messtechnik
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/StefanMack/PraktMesstBV/master)
