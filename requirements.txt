@@ -1,2 +1,2 @@
 matplotlib
-cv2 
+opencv-python
